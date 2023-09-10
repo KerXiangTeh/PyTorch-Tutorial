@@ -1,5 +1,9 @@
 # ToastyAI will save the world.
 # PyTorch-Tutorial
+
+ToastyAI will save the world!
+
+
 This repository contains ToastyAI's inaugural PyTorch project, publicly available.
 
 Checking git command install:
